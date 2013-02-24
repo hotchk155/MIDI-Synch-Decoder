@@ -1,0 +1,10 @@
+[Settings]
+Active Directory=C:\Dev\GitHub\MIDI-Synch-Input\src\
+Target=PIC12F1822
+Active Compiler=BoostC
+Active Config=Release
+Config=0
+Last Ext=c
+[Files]
+Count=1
+File0=MidiSychInput.c
